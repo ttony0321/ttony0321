@@ -1,13 +1,10 @@
 ### 김영도(Kim, Young Do) AI 개발자 👋
 
 - 🔭 Check out my Portfolio! [My.Portfolio][website]
-- 🌱 I’m currently learning Generative AI
-- 👯 2023 Goals: Grow up, and Get a Job..
-- ⚡ Fun fact: I'm wating for the Starfield
 
 ### Connect with me:
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttony0321@gmail.com)](mailto:ttony0321@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://bitter-larkspur-731.notion.site/a63f6a47510f4a8f88d2539db45a6f7f?pvs=25)](https://bitter-larkspur-731.notion.site/a63f6a47510f4a8f88d2539db45a6f7f?pvs=25)
+  [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://bitter-larkspur-731.notion.site/a63f6a47510f4a8f88d2539db45a6f7f?pvs=25)][website]
 
 
 ### Languages and Tools:
